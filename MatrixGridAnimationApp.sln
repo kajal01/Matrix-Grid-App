@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixGridAnimationApp", "MatrixGridAnimationApp.csproj", "{03E793C6-2404-4410-8DCA-B4D12D3B0EC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03E793C6-2404-4410-8DCA-B4D12D3B0EC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03E793C6-2404-4410-8DCA-B4D12D3B0EC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03E793C6-2404-4410-8DCA-B4D12D3B0EC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03E793C6-2404-4410-8DCA-B4D12D3B0EC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5787FA2-A4B5-4145-851C-7544F2DBE067}
+	EndGlobalSection
+EndGlobal
